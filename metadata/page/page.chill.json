@@ -1,0 +1,17 @@
+{
+  "_id": "page.chill",
+  "_type": "page.content",
+  "body": "Phew!",
+  "heading": "Just chillin’",
+  "show": {
+    "0": {
+      "identifier": "auto_name__2",
+      "operator": "is",
+      "value": "ringo"
+    },
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "ringo"
+  },
+  "url": "chill"
+}
